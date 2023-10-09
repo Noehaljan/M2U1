@@ -1,0 +1,17 @@
+.caja{
+    background-color: yellow;
+    width: 300px;
+    padding: 20px;
+    background-color: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(68, 155, 196) 35%, rgba(6,78,166,1) 57%, rgba(3,147,212,1) 79%, rgba(0,212,255,1) 100%);;
+
+    box-shadow: 10px 20px 5px rgb(31, 28, 28);
+    border-radius: 25px;
+    border-radius: 50px 25px;
+    border-radius: 10px 20px 30px;
+.texto{
+    background-color: rgb(74, 158, 137);
+    column-count: 2;
+}
+
+}
